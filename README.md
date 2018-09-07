@@ -2,11 +2,11 @@
 
 Fully functional implementations of the most popularly used machine learning algorithms, in Python.
 
-  1. Data Pre-Processing
+1. Data Pre-Processing
    
    1.1 Data Pre-Processing - Data.csv
 
-   2.Regression
+2.Regression
    
    2.1. Simple Linear Regression - Salary_Data.csv
    
@@ -20,7 +20,7 @@ Fully functional implementations of the most popularly used machine learning alg
    
    2.6. Random Forest Regression - Position_Salaries.csv
 
-   3.Classification
+3.Classification
    
    3.1. Logistic Regression - Social_Network_Ads.csv
    
