@@ -1,4 +1,4 @@
-#auther ::: khushwant singh kodecha && mail2mrroot@gmail.com && http://khushwantkodecha.inf
+#auther ::: khushwant singh kodecha && mail2mrroot@gmail.com && http://khushwantkodecha.info
 
 #!/usr/bin/python3
 import face_recognition
